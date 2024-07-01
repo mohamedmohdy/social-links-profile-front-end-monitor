@@ -11,14 +11,15 @@ a {
 }
 
 body {
-  display: flex;
-  justify-content: center;
-  background-color: black;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
 
   .contanir {
     margin: 20px 0px;
     width: 23%;
-    height: 85vh;
+   
     background-color: hsl(0, 0%, 12%);
     border-radius: 10px;
     img {
